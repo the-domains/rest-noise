@@ -1,0 +1,28 @@
+name: Rest/Noise
+favicon: null
+layout_spectrum: 0.41908750869333744
+typography_spectrum: 0.2005634130910039
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.23956959787756205
+  lightness: 0.3758667348884046
+  saturation: 0.7224100462626666
+  rhythmicContrast: 0.9186240117996931
+purpose: []
