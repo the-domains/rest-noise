@@ -1,12 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
 description: REST/NOISE
-datePublished: '2016-04-23T23:01:02.908Z'
-dateModified: '2016-04-23T22:58:51.942Z'
+datePublished: '2016-04-23T23:12:59.615Z'
+dateModified: '2016-04-23T23:05:22.505Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-23-restnoise.md
@@ -19,7 +19,7 @@ publisher:
   favicon: null
 starred: false
 url: restnoise/index.html
-_type: Article
+_type: Blurb
 
 ---
 REST/NOISE
