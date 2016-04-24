@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: //UPCOMING EVENTS//
-datePublished: '2016-04-24T17:28:51.451Z'
-dateModified: '2016-04-24T17:28:21.167Z'
+datePublished: '2016-04-24T17:32:07.873Z'
+dateModified: '2016-04-24T17:31:42.530Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-24-upcoming-events.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,10 +18,28 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-24-upcoming-events.md
-published: true
 url: upcoming-events/index.html
 _type: Article
 
 ---
 //UPCOMING EVENTS//
+
+Davis Square Theater
+
+Lizard Lounge
+
+Boston Cyber Arts Gallery
+
+Aeronaut Brewing Company
+
+Lily Pad
+
+Gallery 263
+
+Green Room
+
+Third Life Studios
+
+JPConcerts.org
+
+Central Square Theater
