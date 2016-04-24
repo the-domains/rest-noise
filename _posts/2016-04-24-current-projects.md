@@ -4,11 +4,13 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: CURRENT PROJECTS
-datePublished: '2016-04-24T17:26:31.309Z'
-dateModified: '2016-04-24T17:26:10.984Z'
+description: //CURRENT PROJECTS//
+datePublished: '2016-04-24T17:35:22.339Z'
+dateModified: '2016-04-24T17:27:13.373Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-24-current-projects.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,13 +18,11 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-24-current-projects.md
-published: true
 url: current-projects/index.html
 _type: Article
 
 ---
-CURRENT PROJECTS
+//CURRENT PROJECTS//
 
 REST/NOISE
 
