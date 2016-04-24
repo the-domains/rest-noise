@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: REST/NOISE
-datePublished: '2016-04-24T17:25:04.168Z'
-dateModified: '2016-04-24T17:24:49.782Z'
+datePublished: '2016-04-24T17:34:04.698Z'
+dateModified: '2016-04-24T17:29:12.874Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-23-restnoise.md
