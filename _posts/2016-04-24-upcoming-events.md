@@ -1,12 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
 description: //UPCOMING EVENTS//
-datePublished: '2016-04-24T17:34:54.900Z'
-dateModified: '2016-04-24T17:32:16.687Z'
+datePublished: '2016-04-24T17:36:46.496Z'
+dateModified: '2016-04-24T17:35:03.552Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-24-upcoming-events.md
@@ -19,7 +19,7 @@ publisher:
   favicon: null
 starred: false
 url: upcoming-events/index.html
-_type: Article
+_type: Blurb
 
 ---
 //UPCOMING EVENTS//
