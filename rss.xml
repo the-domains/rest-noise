@@ -4,7 +4,7 @@
         <description><![CDATA[Rest/Noise]]></description>
         <link>https://thegrid.ai/rest-noise/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 17:50:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2016 17:52:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rest-noise/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/rest-noise/who-i-am/index.html</link>
             <guid isPermaLink="false">676894ec-0a5f-44bd-a5cb-d51b0d5d5948</guid>
             <pubDate>Sun, 24 Apr 2016 17:50:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>//CURRENT PROJECTS//</p>]]></description>
-            <link>https://thegrid.ai/rest-noise/current-projects/index.html</link>
-            <guid isPermaLink="false">24cd4de0-0a84-43ab-be6e-131b53bdd2e6</guid>
-            <pubDate>Sun, 24 Apr 2016 17:35:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
