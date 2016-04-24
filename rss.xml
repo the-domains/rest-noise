@@ -4,21 +4,21 @@
         <description><![CDATA[Rest/Noise]]></description>
         <link>https://thegrid.ai/rest-noise/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 17:52:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2016 17:53:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rest-noise/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[AboutMe]]></title>
+            <description><![CDATA[<p>//WHO I AM//</p>]]></description>
+            <link>https://thegrid.ai/rest-noise/who-i-am/index.html</link>
+            <guid isPermaLink="false">676894ec-0a5f-44bd-a5cb-d51b0d5d5948</guid>
+            <pubDate>Sun, 24 Apr 2016 17:53:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Homepage]]></title>
             <description><![CDATA[<p>REST/NOISE</p>]]></description>
             <link>https://thegrid.ai/rest-noise/restnoise/index.html</link>
             <guid isPermaLink="false">a983fbef-61dd-42fb-95a2-62ef38d051df</guid>
             <pubDate>Sun, 24 Apr 2016 17:52:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>//WHO I AM//</p>]]></description>
-            <link>https://thegrid.ai/rest-noise/who-i-am/index.html</link>
-            <guid isPermaLink="false">676894ec-0a5f-44bd-a5cb-d51b0d5d5948</guid>
-            <pubDate>Sun, 24 Apr 2016 17:50:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
