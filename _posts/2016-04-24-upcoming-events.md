@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: //UPCOMING EVENTS//
-datePublished: '2016-04-24T17:32:07.873Z'
-dateModified: '2016-04-24T17:31:42.530Z'
+datePublished: '2016-04-24T17:34:54.900Z'
+dateModified: '2016-04-24T17:32:16.687Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-24-upcoming-events.md
