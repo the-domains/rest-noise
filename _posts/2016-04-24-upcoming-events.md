@@ -1,45 +1,30 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
 description: //UPCOMING EVENTS//
-datePublished: '2016-04-24T17:51:28.140Z'
-dateModified: '2016-04-24T17:36:55.473Z'
+datePublished: '2016-07-04T12:36:43.224Z'
+dateModified: '2016-07-04T12:35:56.758Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-24-upcoming-events.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
 starred: false
 url: upcoming-events/index.html
-_type: WebPage
+_type: Article
 
 ---
 //UPCOMING EVENTS//
 
-Davis Square Theater
+_Timber _by Michael Gordon//**Cambridge Multicultural Arts Center, January 12, 2017, 8pm**
 
-Lizard Lounge
+_Timber _by Michael Gordon//**St. John's Episcopal Church Jamaica Plain, March 3rd, 2017, 8pm**
 
-Boston Cyber Arts Gallery
+Performance with Artist at JP PorchFest 2016
 
-Aeronaut Brewing Company
+_Ambient Cycles II//_
 
-Lily Pad
-
-Gallery 263
-
-Green Room
-
-Third Life Studios
-
-JPConcerts.org
-
-Central Square Theater
+****
