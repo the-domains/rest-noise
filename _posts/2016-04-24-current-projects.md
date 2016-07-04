@@ -1,16 +1,15 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
 description: //CURRENT PROJECTS//
-datePublished: '2016-04-24T17:51:53.914Z'
-dateModified: '2016-04-24T17:35:31.613Z'
+datePublished: '2016-07-04T13:02:56.547Z'
+dateModified: '2016-04-29T02:47:34.901Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-24-current-projects.md
-published: true
 authors: []
 publisher:
   name: null
@@ -19,7 +18,7 @@ publisher:
   favicon: null
 starred: false
 url: current-projects/index.html
-_type: WebPage
+_type: Article
 
 ---
 //CURRENT PROJECTS//
